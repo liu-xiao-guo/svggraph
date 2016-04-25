@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=svggraph
+Exec=qmlscene %U svggraph/Main.qml
+Icon=svggraph/svggraph.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

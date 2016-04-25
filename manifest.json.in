@@ -1,0 +1,17 @@
+{
+    "name": "svggraph.liu-xiao-guo",
+    "description": "description of svggraph",
+    "architecture": "@CLICK_ARCH@",
+    "title": "svggraph",
+    "hooks": {
+        "svggraph": {
+            "apparmor": "svggraph/svggraph.apparmor",
+            "desktop":  "svggraph/svggraph.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
